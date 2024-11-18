@@ -1,0 +1,16 @@
+{
+  "name": "inm320_bootstrap",
+  "version": "1.0.0",
+  "scripts": {
+    "group3": "lite-server --baseDir=\"bootstrap\"",
+    "framework": "sass --watch src/scss:public/assets/css",
+    "start": "concurrently \"npm run group3\" \"npm run framework\""
+  },
+  "author": "Carrissa Ramrup",
+  "license": "private",
+  "private": true,
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
