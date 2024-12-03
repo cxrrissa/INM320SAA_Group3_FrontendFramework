@@ -1,0 +1,20 @@
+{
+    "tickets": [
+        {
+            "description": "Waiting on Feature Request",
+            "count": 4238
+        },
+        {
+            "description": "Awaiting Customer Response",
+            "count": 1005
+        },
+        {
+            "description": "Awaiting Developer Fix",
+            "count": 914
+        },
+        {
+            "description": "Pending",
+            "count": 281
+        }
+    ]
+}
