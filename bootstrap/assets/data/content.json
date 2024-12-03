@@ -18,3 +18,23 @@
         }
     ]
 }
+
+{
+    "tasks": [
+        {
+            "description": "Finish ticket update",
+            "badge": "text-bg-warning",
+            "priority": "URGENT"
+        },
+        {
+            "description": "Create new ticket example",
+            "badge": "text-bg-success",
+            "priority": "NEW"
+        },
+        {
+            "description": "Update ticket report",
+            "badge": "text-bg-light",
+            "priority": "DEFAULT"
+        }
+    ]
+}
